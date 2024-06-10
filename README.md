@@ -2,7 +2,7 @@
 
 This program was created to practice connecting database languages like MySQL to other languages with more options such as  reating functions. I developed a simple recipe database using MySQL connector and python. The program is used by creating a dictionary of ingredients (with ingredient ID, quantity, and unit), a list of instructions, and then calling the add recipe with recipe title, Recipe ID, ingredients dictionary, and instructions list. THe categories, ingredients and functions can be easily changed to adapt to the needs of whatever cook is using the program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/eAYqGWaZS0Q)
 
 # Relational Database
 
